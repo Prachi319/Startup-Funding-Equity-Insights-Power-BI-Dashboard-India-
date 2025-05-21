@@ -1,0 +1,102 @@
+Startup_Name,Industry,City,Funding_Amount_INR,Funding_Stage,Date,Investor_Names,Equity_Diluted (%)
+CRED,FinTech,Delhi,10000000,Series A,12-10-2020,"Sequoia Capital, Matrix Partners, Lightspeed",6.74
+Razorpay,FinTech,Bengaluru,5000000,Series A,21-04-2021,"Lightspeed, Sequoia Capital, Kalaari Capital",8.98
+Meesho,E-commerce,Mumbai,50000000,Series D,23-07-2021,Kalaari Capital,21.12
+Razorpay,HealthTech,Delhi,10000000,Series A,20-11-2021,Sequoia Capital,12.6
+Paytm,HealthTech,Chennai,20000000,Seed,03-02-2024,"Lightspeed, Sequoia Capital",24.46
+Razorpay,FinTech,Chennai,,Series D,10-01-2022,"Accel, Matrix Partners, Sequoia Capital",5.92
+Swiggy,HealthTech,Bengaluru,10000000,Seed,17-02-2022,"SoftBank, Matrix Partners",21.68
+Ola,HealthTech,Delhi,10000000,Series B,08-12-2023,"Matrix Partners, Sequoia Capital, Lightspeed",17.7
+Meesho,Logistics,Mumbai,10000000,Series C,16-02-2022,"Matrix Partners, Kalaari Capital",16.14
+Paytm,FinTech,Mumbai,5000000,Series B,01-04-2022,"Sequoia Capital, Accel",23.26
+PharmEasy,Logistics,,10000000,Series C,21-03-2022,"SoftBank, Accel, Tiger Global",7.79
+Meesho,Mobility,Delhi,100000000,Series C,10-04-2023,"Tiger Global, Accel",24.95
+Ola,Mobility,Hyderabad,5000000,Seed,12-08-2020,Matrix Partners,8.2
+Razorpay,Mobility,Bengaluru,50000000,Series C,05-05-2023,"Lightspeed, Tiger Global",24.42
+Zerodha,Logistics,Bengaluru,100000000,Series B,05-08-2023,"Sequoia Capital, Tiger Global",13.7
+Upstox,FinTech,Delhi,100000000,Series A,05-11-2022,Kalaari Capital,17.51
+Meesho,Mobility,Mumbai,10000000,Series B,26-11-2020,"Kalaari Capital, Lightspeed, Sequoia Capital",16.98
+Upstox,FinTech,Bengaluru,20000000,Series B,05-05-2021,Accel,22.56
+CRED,FinTech,Hyderabad,5000000,Series D,14-09-2020,Matrix Partners,14.51
+Meesho,EdTech,Delhi,100000000,Series D,16-05-2022,Lightspeed,20.11
+Swiggy,Logistics,Delhi,50000000,Series B,16-06-2022,"SoftBank, Sequoia Capital, Accel",9.49
+Paytm,FinTech,Chennai,100000000,Series A,20-04-2023,Sequoia Capital,6.42
+Zerodha,EdTech,Bengaluru,5000000,Series B,25-05-2020,"Accel, Tiger Global, SoftBank",9.28
+Ola,Logistics,Chennai,100000000,Series C,12-05-2021,"Kalaari Capital, SoftBank",8.81
+CRED,Logistics,Hyderabad,20000000,Series C,21-04-2022,"Kalaari Capital, Matrix Partners",6.08
+CRED,FinTech,Hyderabad,20000000,Seed,24-05-2021,Accel,15.73
+Ola,E-commerce,Mumbai,20000000,Series C,26-05-2021,SoftBank,21.16
+Meesho,FinTech,Bengaluru,100000000,Seed,10-07-2020,Accel,13.13
+Upstox,EdTech,Hyderabad,5000000,Series A,15-02-2022,SoftBank,10.3
+Upstox,HealthTech,Hyderabad,100000000,Series C,13-11-2020,Tiger Global,9.35
+Zerodha,Mobility,Chennai,5000000,Series B,27-04-2020,Lightspeed,14.54
+Meesho,EdTech,Bengaluru,100000000,Seed,15-01-2021,Lightspeed,6.36
+Swiggy,E-commerce,Bengaluru,100000000,Series A,31-03-2023,"Sequoia Capital, Lightspeed, Kalaari Capital",13.38
+PharmEasy,Mobility,Chennai,20000000,Series B,22-02-2021,"Matrix Partners, Tiger Global, Accel",10.31
+Ola,Logistics,Delhi,50000000,Series B,28-05-2020,SoftBank,17.42
+PharmEasy,FinTech,Bengaluru,100000000,Series A,02-11-2022,"Accel, Tiger Global",22.62
+Swiggy,HealthTech,Delhi,10000000,Series C,17-01-2023,"Tiger Global, Lightspeed, Matrix Partners",5.16
+Meesho,HealthTech,Bengaluru,10000000,Series B,24-08-2020,Matrix Partners,16.06
+BYJU'S,HealthTech,Chennai,10000000,Series B,20-02-2021,"Matrix Partners, Tiger Global, Lightspeed",14.77
+Zerodha,FinTech,Hyderabad,20000000,Seed,08-01-2020,"Kalaari Capital, Accel",17.74
+BYJU'S,EdTech,Hyderabad,100000000,Series C,22-02-2023,Sequoia Capital,6.5
+Ola,Mobility,Bengaluru,20000000,Series D,05-02-2023,SoftBank,7.55
+BYJU'S,HealthTech,Bengaluru,20000000,Series A,28-10-2023,Matrix Partners,7.06
+Meesho,E-commerce,Chennai,10000000,Series A,28-11-2020,SoftBank,5.5
+Paytm,E-commerce,Mumbai,20000000,Series A,07-12-2023,SoftBank,22.44
+Upstox,EdTech,Mumbai,50000000,Series B,17-09-2021,Accel,5.47
+Swiggy,E-commerce,Delhi,20000000,Seed,25-07-2021,"Matrix Partners, Lightspeed",12.99
+Meesho,HealthTech,Bengaluru,5000000,Series B,31-12-2020,"Tiger Global, Sequoia Capital, Matrix Partners",16.93
+Paytm,Logistics,Delhi,50000000,Series D,13-11-2022,SoftBank,22.99
+Swiggy,HealthTech,Bengaluru,50000000,Seed,30-11-2022,"Matrix Partners, Kalaari Capital, Accel",12.28
+CRED,Logistics,Delhi,100000000,Series B,20-09-2023,Matrix Partners,23
+Meesho,HealthTech,Hyderabad,20000000,Series C,28-11-2023,"Lightspeed, Accel",8.84
+Razorpay,Logistics,Mumbai,100000000,Series D,08-09-2021,"Lightspeed, Sequoia Capital",11.08
+Swiggy,E-commerce,Chennai,100000000,Series B,10-08-2022,"SoftBank, Matrix Partners",9.27
+Upstox,Logistics,Mumbai,5000000,Series B,21-11-2022,"Matrix Partners, Lightspeed, Tiger Global",6.87
+Swiggy,Logistics,Delhi,10000000,Series A,28-10-2020,Sequoia Capital,9.9
+Upstox,Mobility,Bengaluru,50000000,Series C,13-07-2023,"Accel, Matrix Partners, SoftBank",14.89
+Swiggy,EdTech,Bengaluru,5000000,Series C,24-03-2021,Kalaari Capital,24.16
+Meesho,E-commerce,Bengaluru,100000000,Series A,05-09-2020,"Accel, SoftBank",18.35
+Meesho,Mobility,Delhi,50000000,Series D,13-01-2024,"SoftBank, Lightspeed, Kalaari Capital",22.94
+Upstox,E-commerce,Delhi,10000000,Series B,03-12-2022,"Matrix Partners, Accel",10.49
+CRED,Logistics,Delhi,10000000,Series B,18-11-2021,"Lightspeed, Sequoia Capital",7.77
+Swiggy,E-commerce,Mumbai,10000000,Seed,29-04-2022,"Tiger Global, Lightspeed",14.32
+Zerodha,EdTech,Hyderabad,50000000,Series D,25-11-2023,Kalaari Capital,22.61
+PharmEasy,E-commerce,Hyderabad,5000000,Series B,03-09-2021,"Kalaari Capital, SoftBank",15.76
+Meesho,Mobility,Mumbai,50000000,Series A,12-07-2021,"SoftBank, Sequoia Capital",12.78
+Razorpay,Logistics,Mumbai,50000000,Series A,28-06-2023,"Sequoia Capital, SoftBank, Lightspeed",16.29
+Zerodha,FinTech,Hyderabad,10000000,Series C,07-01-2021,Tiger Global,12.58
+Swiggy,E-commerce,Delhi,20000000,Series C,23-07-2021,"Tiger Global, Sequoia Capital",14.41
+Meesho,FinTech,Delhi,10000000,Seed,27-08-2023,Kalaari Capital,5.62
+Swiggy,EdTech,Bengaluru,100000000,Series A,03-05-2021,SoftBank,18.39
+PharmEasy,EdTech,Hyderabad,20000000,Series B,09-12-2020,"Lightspeed, Matrix Partners, Sequoia Capital",20.56
+Ola,HealthTech,Bengaluru,100000000,Seed,30-09-2021,"Matrix Partners, SoftBank, Kalaari Capital",23.83
+Swiggy,FinTech,Chennai,10000000,Seed,28-11-2023,"Kalaari Capital, Matrix Partners",17.01
+CRED,Mobility,Bengaluru,20000000,Series D,27-05-2022,"Tiger Global, Sequoia Capital, Lightspeed",17.95
+Zerodha,E-commerce,Hyderabad,5000000,Series C,11-01-2022,"Kalaari Capital, SoftBank, Accel",13.71
+Meesho,Logistics,Delhi,100000000,Series D,17-09-2022,"SoftBank, Matrix Partners",16.85
+Paytm,EdTech,Bengaluru,20000000,Series C,14-05-2021,"Lightspeed, Kalaari Capital",18.36
+Paytm,FinTech,Hyderabad,20000000,Series A,25-09-2022,Tiger Global,20.96
+Paytm,HealthTech,Chennai,20000000,Series D,21-01-2020,"Accel, Sequoia Capital, Kalaari Capital",19.4
+Upstox,Mobility,Mumbai,50000000,Series C,06-07-2022,Sequoia Capital,10.88
+Razorpay,Logistics,Mumbai,20000000,Series D,25-01-2022,"Lightspeed, Kalaari Capital",11.88
+Meesho,HealthTech,Delhi,50000000,Series B,19-09-2021,"Accel, Sequoia Capital",19.43
+Paytm,FinTech,Chennai,10000000,Series A,19-03-2021,"SoftBank, Tiger Global, Lightspeed",24.53
+Meesho,Mobility,Delhi,5000000,Series A,29-08-2021,Tiger Global,8.59
+Zerodha,Logistics,Chennai,10000000,Series B,03-04-2020,Lightspeed,10.84
+Ola,Logistics,Hyderabad,5000000,Seed,21-03-2023,"SoftBank, Kalaari Capital",13.81
+Ola,FinTech,Delhi,50000000,Seed,13-05-2020,"SoftBank, Sequoia Capital",16.54
+Zerodha,EdTech,Mumbai,100000000,Series B,23-06-2020,Sequoia Capital,16.16
+Razorpay,Mobility,Chennai,100000000,Series A,06-12-2022,"SoftBank, Kalaari Capital",10.95
+PharmEasy,E-commerce,Delhi,100000000,Series D,03-05-2020,"Matrix Partners, Sequoia Capital, Accel",17.51
+BYJU'S,Logistics,Bengaluru,10000000,Series A,21-12-2020,"Sequoia Capital, Accel, Kalaari Capital",13.17
+PharmEasy,E-commerce,Delhi,5000000,Series A,13-08-2021,"Tiger Global, Matrix Partners, SoftBank",6.42
+Swiggy,HealthTech,Chennai,10000000,Series C,23-08-2020,"Accel, Matrix Partners, Kalaari Capital",23.17
+Ola,FinTech,Bengaluru,10000000,Series B,03-05-2023,"Kalaari Capital, Lightspeed, Tiger Global",13.78
+Upstox,Logistics,Delhi,50000000,Series B,21-10-2022,"SoftBank, Kalaari Capital, Sequoia Capital",16.96
+Razorpay,Logistics,Delhi,100000000,Series B,22-02-2020,Accel,24.24
+PharmEasy,Mobility,Bengaluru,20000000,Series D,23-03-2020,SoftBank,15.38
+Upstox,HealthTech,Mumbai,100000000,Series C,24-07-2023,"Sequoia Capital, SoftBank",11.96
+Paytm,HealthTech,Bengaluru,10000000,Series B,23-04-2022,"SoftBank, Tiger Global, Kalaari Capital",21.27
+CRED,FinTech,Delhi,10000000,Series A,12-10-2020,"Sequoia Capital, Matrix Partners, Lightspeed",6.74
